@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/public
+
+https://api.themoviedb.org/3/movie/popular?api_key=ed092a4c0edef4725e5326c20541cc26&language=en-US&page=1
